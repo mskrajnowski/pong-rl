@@ -1,0 +1,25 @@
+{
+  "name": "pong-rl",
+  "version": "1.0.0",
+  "description": "Pong bot reinforcement learning proof of concept",
+  "main": "index.html",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "phaser-ce": "^2.7.5",
+    "requirejs": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskrajnowski/pong-rl.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskrajnowski/pong-rl/issues"
+  },
+  "homepage": "https://github.com/mskrajnowski/pong-rl#readme"
+}
